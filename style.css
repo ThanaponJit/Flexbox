@@ -26,7 +26,6 @@ body {
     justify-content: center;
     align-items: center;
     border: 5px solid black;
-    border-radius: 2%;
     color: white;
 }
 .header,.footer{
